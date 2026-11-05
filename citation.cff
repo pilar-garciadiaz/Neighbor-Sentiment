@@ -1,4 +1,6 @@
-cff-version: 1.0.0
+cff-version: "1.0.0"
+doi: "10.5281/zenodo.23987283"
+date-released: "2026-11-05"
 
 message: >-
   If you use this software, please cite the archived software release,
@@ -78,6 +80,10 @@ keywords:
   - "reproducible research"
 
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23987283"   
+    description: "Concept DOI representing all software versions"
+
   - type: doi
     value: "10.1016/j.eswa.2022.118817"
     description: "DOI of the associated research article"
