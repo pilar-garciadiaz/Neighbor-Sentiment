@@ -1,0 +1,21 @@
+Neighbor-Sentiment
+Python-MATLAB implementation for flexible feature extraction in Spanish tweet sentiment analysis
+
+Copyright 2026 Pilar García-Díaz
+
+This software is associated with the following research article:
+
+García-Díaz, P., Sánchez-Berriel, I., Pontiel-Martín, D., and González-Ávila, J. L. (2023).
+A novel flexible feature extraction algorithm for Spanish tweet sentiment analysis based on the context of words.
+Expert Systems with Applications, 212, 118817.
+https://doi.org/10.1016/j.eswa.2022.118817
+
+The associated research dataset is available at:
+https://doi.org/10.21950/XEV9IC
+
+This product includes software developed using Python and MATLAB R2020b.
+
+MATLAB is a registered trademark of The MathWorks, Inc. MATLAB and the MATLAB Engine API for Python are not distributed as part of this repository and are subject to their respective proprietary terms.
+
+This repository is licensed under the Apache License, Version 2.0.
+A copy of the license is included in the LICENSE file.

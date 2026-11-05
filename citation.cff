@@ -1,0 +1,124 @@
+cff-version: 1.2.0
+
+message: >-
+  If you use this software, please cite the archived software release,
+  the associated research article, and the associated dataset using
+  the metadata provided in this file.
+
+title: >-
+  Neighbor-Sentiment: Python-MATLAB implementation for flexible feature extraction in Spanish tweet sentiment analysis
+
+type: software
+
+abstract: >-
+  Research software associated with the article "A novel flexible
+  feature extraction algorithm for Spanish tweet sentiment analysis
+  based on the context of words". The main executable,
+  feature_combination_14engs.py, is written in Python and controls
+  the experimental workflow. The Python program invokes algorithms
+  and supporting functions implemented in 23 MATLAB source files.
+  The reference environment uses Python 3.8.8, MATLAB R2020b, and
+  the MATLAB Engine API for Python. The software implements the
+  Neighbor-Sentiment method, which uses flexible word-level feature
+  extraction, grouping genetic algorithms, individual classifiers,
+  and a voting procedure for sentiment analysis of Spanish tweets.
+
+authors:
+  - family-names: "García-Díaz"
+    given-names: "Pilar"
+    affiliation: "Universidad de Alcalá"
+    orcid: "https://orcid.org/0000-0002-5361-6947"
+
+  - family-names: "Sánchez-Berriel"
+    given-names: "Isabel"
+    affiliation: "Universidad de La Laguna"
+    orcid: "https://orcid.org/0000-0003-3279-9438"
+
+  - family-names: "Pontiel-Martín"
+    given-names: "Diego"
+    affiliation: "Universidad de Alcalá"
+
+  - family-names: "González-Ávila"
+    given-names: "José Luis"
+    affiliation: "Universidad de La Laguna"
+    orcid: "https://orcid.org/0000-0001-9412-2022"
+
+contact:
+  - family-names: "García-Díaz"
+    given-names: "Pilar"
+    affiliation: "Universidad de Alcalá"
+    orcid: "https://orcid.org/0000-0002-5361-6947"
+    email: "pilar.garcia@uah.es"
+
+version: "1.0.0"
+
+date-released: "2026-02-28"
+
+license: Apache-2.0
+
+repository-code: "https://github.com/[GITHUB-USER]/[REPOSITORY-NAME]"
+
+url: "https://github.com/[GITHUB-USER]/[REPOSITORY-NAME]"
+
+keywords:
+  - "sentiment analysis"
+  - "Spanish tweets"
+  - "Spanish natural language processing"
+  - "feature extraction"
+  - "flexible feature extraction"
+  - "context of words"
+  - "grouping genetic algorithm"
+  - "genetic algorithm"
+  - "Extreme Learning Machine"
+  - "machine learning"
+  - "Python"
+  - "MATLAB"
+  - "research software"
+  - "open science"
+  - "reproducible research"
+
+identifiers:
+  - type: doi
+    value: "10.1016/j.eswa.2022.118817"
+    description: "DOI of the associated research article"
+
+  - type: doi
+    value: "10.21950/XEV9IC"
+    description: "DOI of the associated research dataset"
+
+references:
+  - type: article
+    title: >-
+      A novel flexible feature extraction algorithm for Spanish tweet
+      sentiment analysis based on the context of words authors:
+      - family-names: "García-Díaz"
+        given-names: "Pilar"
+
+      - family-names: "Sánchez-Berriel"
+        given-names: "Isabel"
+
+      - family-names: "Pontiel-Martín"
+        given-names: "Diego"
+
+      - family-names: "González-Ávila"
+        given-names: "José Luis"
+
+    journal: "Expert Systems with Applications"
+    volume: "212"
+    year: 2023
+    doi: "10.1016/j.eswa.2022.118817"
+    url: "https://doi.org/10.1016/j.eswa.2022.118817"
+
+  - type: data
+    title: "Spanish tweet datasets encoded for sentiment analysis based on context of words"
+    authors:
+      - family-names: "García-Díaz"
+        given-names: "Pilar"
+
+      - family-names: "Sánchez-Berriel"
+        given-names: "Isabel"
+
+      - family-names: "González-Ávila"
+        given-names: "José Luis"
+    doi: "10.21950/XEV9IC"
+    url: "https://doi.org/10.21950/XEV9IC"
