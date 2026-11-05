@@ -3,6 +3,15 @@ Python-MATLAB implementation for flexible feature extraction in Spanish tweet se
 
 Overview
 
+
+Archived software release
+The stable software release is preserved in Zenodo.
+
+Version: 1.0.0
+GitHub tag: v1.0.0
+Version DOI: https://doi.org/10.5281/zenodo.23987283
+For exact reproducibility, cite the version DOI.
+
 This repository contains the research software associated with the following article:
 
 > García-Díaz, P., Sánchez-Berriel, I., Pontiel-Martín, D., and González-Ávila, J. L. (2023). 
