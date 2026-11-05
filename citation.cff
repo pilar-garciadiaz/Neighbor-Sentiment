@@ -56,9 +56,9 @@ date-released: "2026-02-28"
 
 license: Apache-2.0
 
-repository-code: "https://github.com/[GITHUB-USER]/[REPOSITORY-NAME]"
+repository-code: "https://github.com/pilar-garciadiaz/Neighbor-Sentiment"
 
-url: "https://github.com/[GITHUB-USER]/[REPOSITORY-NAME]"
+url: "https://github.com/pilar-garciadiaz/Neighbor-Sentiment"
 
 keywords:
   - "sentiment analysis"
